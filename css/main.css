@@ -1,0 +1,47 @@
+html {
+	background-color:lavender;
+}
+
+html,body {
+	height: 94%;
+}
+
+body {
+	border-style: solid;
+	margin:2rem;
+	border-style: solid;
+	max-width: 29rem;
+	margin-right: auto;
+	margin-left: auto;
+	background-color:white;
+}
+
+header {
+	font-size: 3rem;
+	text-align: center;
+}
+
+#list ul {
+	list-style-type: none;
+	font-size: 2rem;
+	text-align: center;
+}
+
+#list li {
+	margin-bottom: .5rem;
+}
+
+#list, #title {
+	text-align: center;
+}
+
+.active {
+	background-color: lightgreen;
+	text-decoration: line-through;
+}
+/*#all {
+border-style: solid;
+max-width: 29rem;
+margin-right: auto;
+margin-left: auto;
+}*/
